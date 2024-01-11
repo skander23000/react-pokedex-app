@@ -14,7 +14,7 @@ function PokemonList() {
 
   return (
     <div>
-      <h1 className="center">Pokédex</h1>
+      <h1 className="center">Pokédex Skander</h1>
 
       <div className="container">
         <div className="row">
